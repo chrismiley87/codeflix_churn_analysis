@@ -43,6 +43,6 @@ June 7, 2025
 ```
 ├── images
 ├── README.md
-├── sql_code.md
-└── presentation.pdf
+├── presentation.pdf
+└── sql_code
 ```
