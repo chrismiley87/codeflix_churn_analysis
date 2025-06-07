@@ -10,11 +10,12 @@ The purpose of this project is to identify which segment has a stronger retentio
 
 ## Data Understanding
 
-This project uses a dataset titled 'subscriptions'. This dataset contains four columns: customer id, subscription start date, subscription end date (if applicable), and the segments. In the segments column, there are two available segments to compare: 30 and 87. ![Table_Overview](./images/table_overview.jpg). As the minimum required Codeflix subscription length is one month, the available months for calculating churn rates are January, February, and March. ![Months_Available](./images/months.jpg)
+This project uses a dataset titled 'subscriptions'. This dataset contains four columns: customer id, subscription start date, subscription end date (if applicable), and the segments. In the segments column, there are two available segments to compare: 30 and 87. ![Table_Overview](./images/table_overview.jpg) As the minimum required Codeflix subscription length is one month, the available months for calculating churn rates are January, February, and March. ![Months_Available](./images/months.jpg)
 
 ## Methods
 
 This project uses descriptive analysis, creating temporary tables, grouping data by segment and month, aggregating subscriptions, and cross joining various tables. This provides key insights for Codeflix to identify which segments and months have the strongest customer retention.
+
 ![Churn_Rate_Comparison](./images/churn_rate_comparison.jpg)
 
 ## Conclusions
