@@ -19,16 +19,16 @@ This project uses descriptive analysis, creating temporary tables, grouping data
 
 ## Conclusions
 
-* 1. Segment 30 had a drastically lower churn rate than segment 87 across all three months.
-* 2. Segment 87 saw a steady rise in churn rate each month, while segment 30's churn rate actually decreased from January to February.
-* 3. Both segments had a significant jump in their respective churn rates in March. 
+* Segment 30 had a drastically lower churn rate than segment 87 across all three months.
+* Segment 87 saw a steady rise in churn rate each month, while segment 30's churn rate actually decreased from January to February.
+* Both segments had a significant jump in their respective churn rates in March. 
 
 
 ## Next Steps
 
-* 1. Investigate the factors that caused such a higher churn rate in segment 87 as compared to segment 30 in order to make changes.
-* 2. Investigate the factors that caused a decrease in churn rate for segment 30 from January to February in order to replicate these results more broadly. 
-* 3. Investigate the factors that caused a spike in churn rate for both segments in March in order to make adjustments for future months.
+* Investigate the factors that caused such a higher churn rate in segment 87 as compared to segment 30 in order to make changes.
+* Investigate the factors that caused a decrease in churn rate for segment 30 from January to February in order to replicate these results more broadly. 
+* Investigate the factors that caused a spike in churn rate for both segments in March in order to make adjustments for future months.
 
 ## For More Information
 
